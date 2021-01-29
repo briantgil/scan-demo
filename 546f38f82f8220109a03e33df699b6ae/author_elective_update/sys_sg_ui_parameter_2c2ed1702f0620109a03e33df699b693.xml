@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="multifields">2d99d9bc2fc220109a03e33df699b6c8</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>qr_barcode</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Test</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 04:13:48</sys_created_on>
+        <sys_id>2c2ed1702f0620109a03e33df699b693</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_2c2ed1702f0620109a03e33df699b693</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 04:13:48</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=2c2ed1702f0620109a03e33df699b693"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</application>
+        <file_path/>
+        <instance_id>76e4c9e6dba43f0049eac597059619a9</instance_id>
+        <instance_name>dev78721</instance_name>
+        <name>sys_sg_ui_parameter_2c2ed1702f0620109a03e33df699b693</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="multifields">2d99d9bc2fc220109a03e33df699b6c8</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>user</input_source><input_style>inline</input_style><input_type>qr_barcode</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Test</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 04:13:48</sys_created_on><sys_id>2c2ed1702f0620109a03e33df699b693</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package><sys_policy/><sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope><sys_update_name>sys_sg_ui_parameter_2c2ed1702f0620109a03e33df699b693</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 04:13:48</sys_updated_on><table_name/></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=2c2ed1702f0620109a03e33df699b693"/></record_update>]]></payload>
+        <payload_hash>-1022701607</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>27e101bc2f8220109a03e33df699b606</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 04:13:48</sys_created_on>
+        <sys_id>134ed9702f0620109a03e33df699b687</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774c58de530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 04:13:48</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>5b4ed9704706201082b71a97223eff86</update_guid>
+        <update_guid_history>5b4ed9704706201082b71a97223eff86:-1022701607</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 04:22:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>7dde66d3552a4a168bbf0f0f392712e1</sys_id>
+        <sys_metadata>2c2ed1702f0620109a03e33df699b693</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_scope_delete display_value="">00ec2e9a737544ad8001cd1fce097529</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_2c2ed1702f0620109a03e33df699b693</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_2c2ed1702f0620109a03e33df699b693">134ed9702f0620109a03e33df699b687</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 04:22:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

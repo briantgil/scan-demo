@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Multiscan Items">45e288122ff160109a03e33df699b63f</button>
+        <button/>
         <button_parent_table/>
         <carried>false</carried>
         <constant/>
@@ -11,29 +11,29 @@
         <input_style>inline</input_style>
         <input_type>qr_barcode</input_type>
         <mandatory>false</mandatory>
-        <max_entries/>
-        <multi_entry>false</multi_entry>
+        <max_entries>0</max_entries>
+        <multi_entry>true</multi_entry>
         <multi_select>false</multi_select>
-        <name>Serial Number</name>
+        <name>SNI</name>
         <order/>
-        <parameter_type>button</parameter_type>
+        <parameter_type/>
         <placeholder/>
         <screen/>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-01-29 03:25:53</sys_created_on>
-        <sys_id>c5a299782fc220109a03e33df699b6b1</sys_id>
+        <sys_created_on>2021-01-29 05:58:14</sys_created_on>
+        <sys_id>cb0679702f4620109a03e33df699b66f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Serial Number</sys_name>
+        <sys_name>SNI</sys_name>
         <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
-        <sys_update_name>sys_sg_ui_parameter_c5a299782fc220109a03e33df699b6b1</sys_update_name>
+        <sys_update_name>sys_sg_ui_parameter_cb0679702f4620109a03e33df699b66f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 03:25:53</sys_updated_on>
+        <sys_updated_on>2021-01-29 05:58:14</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
-    <sys_translated_text action="delete_multiple" query="documentkey=c5a299782fc220109a03e33df699b6b1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb0679702f4620109a03e33df699b66f"/>
 </record_update>

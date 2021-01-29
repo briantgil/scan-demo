@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_grouped_input">
     <sys_sg_grouped_input action="INSERT_OR_UPDATE">
-        <button display_value="Multiscan">697685702fc220109a03e33df699b65d</button>
+        <button display_value="multifields">2d99d9bc2fc220109a03e33df699b6c8</button>
         <input_source>button</input_source>
-        <label>Add Asset</label>
+        <label>Add Inventory</label>
         <mandatory>false</mandatory>
         <max_entries>0</max_entries>
-        <multi_entry>false</multi_entry>
-        <name>add_asset</name>
+        <multi_entry>true</multi_entry>
+        <name>add_inventory</name>
         <order/>
         <screen/>
         <sys_class_name>sys_sg_grouped_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-01-29 03:27:56</sys_created_on>
-        <sys_id>986355782fc220109a03e33df699b6fb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>add_asset</sys_name>
+        <sys_created_on>2021-01-29 06:20:53</sys_created_on>
+        <sys_id>706ab9342f4620109a03e33df699b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>add_inventory</sys_name>
         <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
-        <sys_update_name>sys_sg_grouped_input_986355782fc220109a03e33df699b6fb</sys_update_name>
+        <sys_update_name>sys_sg_grouped_input_706ab9342f4620109a03e33df699b6c8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 03:37:38</sys_updated_on>
-        <ui_parameters>12f00b122f7120109a03e33df699b6e2</ui_parameters>
+        <sys_updated_on>2021-01-29 06:20:53</sys_updated_on>
+        <ui_parameters>7e8a3d342f4620109a03e33df699b664,cb0679702f4620109a03e33df699b66f</ui_parameters>
     </sys_sg_grouped_input>
 </record_update>

@@ -25,7 +25,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Multiscan</name>
+        <name>multifields</name>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <preconditions>none</preconditions>
@@ -41,21 +41,21 @@
         <success_message>scan(s) completed</success_message>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-01-29 02:32:26</sys_created_on>
-        <sys_id>697685702fc220109a03e33df699b65d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Multiscan</sys_name>
+        <sys_created_on>2021-01-29 03:53:59</sys_created_on>
+        <sys_id>2d99d9bc2fc220109a03e33df699b6c8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>multifields</sys_name>
         <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
-        <sys_update_name>sys_sg_button_697685702fc220109a03e33df699b65d</sys_update_name>
+        <sys_update_name>sys_sg_button_2d99d9bc2fc220109a03e33df699b6c8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 05:01:53</sys_updated_on>
+        <sys_updated_on>2021-01-29 04:08:21</sys_updated_on>
         <table/>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Multiscan">c16549302fc220109a03e33df699b629</write_back_action_item>
+        <write_back_action_item display_value="multifields">cf381d7c2fc220109a03e33df699b61b</write_back_action_item>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=697685702fc220109a03e33df699b65d"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2d99d9bc2fc220109a03e33df699b6c8"/>
 </record_update>
