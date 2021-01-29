@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="DELETE">
+        <applet_launcher display_value="Scanner-Demo">52a0cd3c2f8220109a03e33df699b65a</applet_launcher>
+        <order>10</order>
+        <quick_action_button/>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:50:38</sys_created_on>
+        <sys_id>5d4bc9342fc220109a03e33df699b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_5d4bc9342fc220109a03e33df699b679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:50:38</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</application>
+        <file_path/>
+        <instance_id>76e4c9e6dba43f0049eac597059619a9</instance_id>
+        <instance_name>dev78721</instance_name>
+        <name>sys_sg_alp_quick_action_map_5d4bc9342fc220109a03e33df699b679</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map"><sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE"><applet_launcher display_value="Scanner-Demo">52a0cd3c2f8220109a03e33df699b65a</applet_launcher><order>10</order><quick_action_button/><sys_class_name>sys_sg_alp_quick_action_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 02:50:38</sys_created_on><sys_id>5d4bc9342fc220109a03e33df699b679</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package><sys_policy/><sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope><sys_update_name>sys_sg_alp_quick_action_map_5d4bc9342fc220109a03e33df699b679</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 02:50:38</sys_updated_on></sys_sg_alp_quick_action_map></record_update>]]></payload>
+        <payload_hash>648786999</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>27e101bc2f8220109a03e33df699b606</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:59:33</sys_created_on>
+        <sys_id>bb4dc1b42fc220109a03e33df699b673</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774c14e4a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:59:33</sys_updated_on>
+        <type>Quick Actions Menu Map</type>
+        <update_guid>d94bc934ecc2201003a0cff3b1d9187b</update_guid>
+        <update_guid_history>d94bc934ecc2201003a0cff3b1d9187b:1668390999,d94bc934ecc2201003a0cff3b1d9187b:1668390999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:59:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_alp_quick_action_map">sys_sg_alp_quick_action_map</sys_db_object>
+        <sys_id>2664d700983f4a38a87389ef707c5621</sys_id>
+        <sys_metadata>5d4bc9342fc220109a03e33df699b679</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_scope_delete display_value="">00ec2e9a737544ad8001cd1fce097529</sys_scope_delete>
+        <sys_update_name>sys_sg_alp_quick_action_map_5d4bc9342fc220109a03e33df699b679</sys_update_name>
+        <sys_update_version display_value="sys_sg_alp_quick_action_map_5d4bc9342fc220109a03e33df699b679">bb4dc1b42fc220109a03e33df699b673</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:59:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

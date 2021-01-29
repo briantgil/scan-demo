@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:51:17</sys_created_on>
+        <sys_id>a26b4d342fc220109a03e33df699b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_562840_inventory_devices</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_scope_privilege_a26b4d342fc220109a03e33df699b620</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:51:17</sys_updated_on>
+        <target_name>x_562840_inventory_devices</target_name>
+        <target_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

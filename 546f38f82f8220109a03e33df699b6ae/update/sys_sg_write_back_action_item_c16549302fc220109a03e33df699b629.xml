@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>***multiscanning***</description>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+    //multiscan serial numbers, and then iterate through them to create a separate database record for each
+	
+	var table = "x_562840_scanner_d_scans";  //custom mobile app db table
+	
+	for (i=0; i<input.add_asset.length; i++){
+		var grNew = new GlideRecord(table);   //create new db record reference
+		//grNew.newRecord();
+		grNew.serial_number = input.add_asset[i]["Serial Number"];   //assign scanned value to db record field
+		//grNew.setValue("serial_number", input.add_asset[i]["Serial Number"]);
+		grNew.insert();
+    }
+		
+ //gs.addInfoMessage("Successfully ran writeback-actions");
+	
+})(input);
+]]></execution_script>
+        <name>Multiscan</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:26:58</sys_created_on>
+        <sys_id>c16549302fc220109a03e33df699b629</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Multiscan</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_c16549302fc220109a03e33df699b629</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:53:22</sys_updated_on>
+        <table/>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c16549302fc220109a03e33df699b629"/>
+</record_update>

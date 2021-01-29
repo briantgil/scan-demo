@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>quick demo to see multi-scanning scans</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Cart">9aa0cd3c2f8220109a03e33df699b658</icon>
+        <name>scans</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:18</sys_created_on>
+        <sys_id>66a0cd3c2f8220109a03e33df699b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scans</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_list_screen_66a0cd3c2f8220109a03e33df699b661</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:18</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=66a0cd3c2f8220109a03e33df699b661"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</application>
+        <file_path/>
+        <instance_id>76e4c9e6dba43f0049eac597059619a9</instance_id>
+        <instance_name>dev78721</instance_name>
+        <name>sys_sg_list_screen_66a0cd3c2f8220109a03e33df699b661</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>quick demo to see multi-scanning scans</description><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Cart">9aa0cd3c2f8220109a03e33df699b658</icon><name>scans</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 02:04:18</sys_created_on><sys_id>66a0cd3c2f8220109a03e33df699b661</sys_id><sys_mod_count>0</sys_mod_count><sys_name>scans</sys_name><sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package><sys_policy/><sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope><sys_update_name>sys_sg_list_screen_66a0cd3c2f8220109a03e33df699b661</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 02:04:18</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=66a0cd3c2f8220109a03e33df699b661"/></record_update>]]></payload>
+        <payload_hash>-929657779</payload_hash>
+        <record_name>scans</record_name>
+        <reverted_from/>
+        <source>1c6f38f82f8220109a03e33df699b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:20</sys_created_on>
+        <sys_id>76a0c17c2f8220109a03e33df699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774be257700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:20</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>3aa0c17c29822010e4f778259376afe6</update_guid>
+        <update_guid_history>3aa0c17c29822010e4f778259376afe6:-929657779</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 03:05:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>17e7bb788ddc414484aa2de45abdce64</sys_id>
+        <sys_metadata>66a0cd3c2f8220109a03e33df699b661</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scans</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_scope_delete display_value="">00ec2e9a737544ad8001cd1fce097529</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_66a0cd3c2f8220109a03e33df699b661</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_66a0cd3c2f8220109a03e33df699b661">76a0c17c2f8220109a03e33df699b6f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 03:05:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

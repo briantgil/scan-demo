@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Scanner-Demo scans">52a0cd3c2f8220109a03e33df699b65d</data_item>
+        <interleaved_field/>
+        <name>scans Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 03:07:02</sys_created_on>
+        <sys_id>5d0f45f42fc220109a03e33df699b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scans Item Stream</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_item_stream_5d0f45f42fc220109a03e33df699b618</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 03:07:02</sys_updated_on>
+        <table>x_562840_scanner_d_scans</table>
+    </sys_sg_item_stream>
+</record_update>
