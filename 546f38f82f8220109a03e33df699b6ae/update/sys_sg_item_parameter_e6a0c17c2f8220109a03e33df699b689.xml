@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>scans model</name>
+        <parent>e2a0c17c2f8220109a03e33df699b688</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:19</sys_created_on>
+        <sys_id>e6a0c17c2f8220109a03e33df699b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scans model</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_e6a0c17c2f8220109a03e33df699b689</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:19</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

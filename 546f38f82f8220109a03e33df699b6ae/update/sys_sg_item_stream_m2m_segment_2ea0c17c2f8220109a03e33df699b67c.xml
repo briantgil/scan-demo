@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="scans Item Stream">a6a0c17c2f8220109a03e33df699b67b</item_stream>
+        <segment display_value="scans Item Stream Segment">a2a0c17c2f8220109a03e33df699b67a</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:18</sys_created_on>
+        <sys_id>2ea0c17c2f8220109a03e33df699b67c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_2ea0c17c2f8220109a03e33df699b67c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:18</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

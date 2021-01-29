@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>quick demo to see multi-scanning</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Cart">9aa0cd3c2f8220109a03e33df699b658</icon>
+        <item_view display_value="scans Detail Screen Item View">e2a0cd3c2f8220109a03e33df699b660</item_view>
+        <name>scans Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:18</sys_created_on>
+        <sys_id>eaa0c17c2f8220109a03e33df699b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scans Form Screen</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_form_screen_eaa0c17c2f8220109a03e33df699b677</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:18</sys_updated_on>
+        <table>x_562840_scanner_d_scans</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=eaa0c17c2f8220109a03e33df699b677"/>
+</record_update>
