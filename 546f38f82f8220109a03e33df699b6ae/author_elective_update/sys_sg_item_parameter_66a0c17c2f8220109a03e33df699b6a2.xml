@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>scans number</name>
+        <parent>e6a0c17c2f8220109a03e33df699b69e</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:19</sys_created_on>
+        <sys_id>66a0c17c2f8220109a03e33df699b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scans number</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_66a0c17c2f8220109a03e33df699b6a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:19</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</application>
+        <file_path/>
+        <instance_id>76e4c9e6dba43f0049eac597059619a9</instance_id>
+        <instance_name>dev78721</instance_name>
+        <name>sys_sg_item_parameter_66a0c17c2f8220109a03e33df699b6a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>scans number</name><parent>e6a0c17c2f8220109a03e33df699b69e</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 02:04:19</sys_created_on><sys_id>66a0c17c2f8220109a03e33df699b6a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>scans number</sys_name><sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package><sys_policy/><sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope><sys_update_name>sys_sg_item_parameter_66a0c17c2f8220109a03e33df699b6a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 02:04:19</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-1587592305</payload_hash>
+        <record_name>scans number</record_name>
+        <reverted_from/>
+        <source>1c6f38f82f8220109a03e33df699b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:20</sys_created_on>
+        <sys_id>baa0c17c2f8220109a03e33df699b6d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774be2561b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:20</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>36a0c17cfa8220100d4ed86d1b03a7d5</update_guid>
+        <update_guid_history>36a0c17cfa8220100d4ed86d1b03a7d5:-1587592305</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 03:14:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>87b226d24265409ab35dc5e0ed0e0964</sys_id>
+        <sys_metadata>66a0c17c2f8220109a03e33df699b6a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scans number</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_scope_delete display_value="">00ec2e9a737544ad8001cd1fce097529</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_66a0c17c2f8220109a03e33df699b6a2</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_66a0c17c2f8220109a03e33df699b6a2">baa0c17c2f8220109a03e33df699b6d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 03:14:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

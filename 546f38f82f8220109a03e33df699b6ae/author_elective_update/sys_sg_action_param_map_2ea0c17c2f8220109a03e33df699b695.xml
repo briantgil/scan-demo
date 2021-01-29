@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="New Button (scans)">e2a0c17c2f8220109a03e33df699b68f</button>
+        <item_parameter display_value="scans number">a2a0c17c2f8220109a03e33df699b68b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:19</sys_created_on>
+        <sys_id>2ea0c17c2f8220109a03e33df699b695</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a2a0c17c2f8220109a03e33df699b68b</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_2ea0c17c2f8220109a03e33df699b695</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:19</sys_updated_on>
+        <ui_parameter display_value="Number">22a0c17c2f8220109a03e33df699b693</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</application>
+        <file_path/>
+        <instance_id>76e4c9e6dba43f0049eac597059619a9</instance_id>
+        <instance_name>dev78721</instance_name>
+        <name>sys_sg_action_param_map_2ea0c17c2f8220109a03e33df699b695</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="New Button (scans)">e2a0c17c2f8220109a03e33df699b68f</button><item_parameter display_value="scans number">a2a0c17c2f8220109a03e33df699b68b</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 02:04:19</sys_created_on><sys_id>2ea0c17c2f8220109a03e33df699b695</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a2a0c17c2f8220109a03e33df699b68b</sys_name><sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package><sys_policy/><sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope><sys_update_name>sys_sg_action_param_map_2ea0c17c2f8220109a03e33df699b695</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 02:04:19</sys_updated_on><ui_parameter display_value="Number">22a0c17c2f8220109a03e33df699b693</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>-1541193942</payload_hash>
+        <record_name>a2a0c17c2f8220109a03e33df699b68b</record_name>
+        <reverted_from/>
+        <source>1c6f38f82f8220109a03e33df699b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 02:04:20</sys_created_on>
+        <sys_id>baa0c17c2f8220109a03e33df699b6db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774be256940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 02:04:20</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>36a0c17c64822010e677d8b9fd8195db</update_guid>
+        <update_guid_history>36a0c17c64822010e677d8b9fd8195db:-1541193942</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 03:18:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>8e6287e21db9491196c08f964062d659</sys_id>
+        <sys_metadata>2ea0c17c2f8220109a03e33df699b695</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a2a0c17c2f8220109a03e33df699b68b</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_scope_delete display_value="">00ec2e9a737544ad8001cd1fce097529</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_2ea0c17c2f8220109a03e33df699b695</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_2ea0c17c2f8220109a03e33df699b695">baa0c17c2f8220109a03e33df699b6db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 03:18:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -10,16 +10,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-29 02:04:19</sys_created_on>
         <sys_id>e6a0c17c2f8220109a03e33df699b69e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Edit (scans)</sys_name>
         <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_e6a0c17c2f8220109a03e33df699b69e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 02:04:19</sys_updated_on>
+        <sys_updated_on>2021-01-29 03:14:00</sys_updated_on>
         <table>x_562840_scanner_d_scans</table>
-        <template>model={{scans model}}^number={{scans number}}^serial_number={{scans serial_number}}^EQ</template>
+        <template>model={{scans model}}^serial_number={{scans serial_number}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
         <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>

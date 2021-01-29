@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Multiscan">697685702fc220109a03e33df699b65d</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="icon-Cart-Solid">a565d9f82fc220109a03e33df699b652</icon>
+        <label>multiscan</label>
+        <location>quick_action</location>
+        <name>multiscan</name>
+        <order/>
+        <parent>52a0cd3c2f8220109a03e33df699b65a</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 03:34:55</sys_created_on>
+        <sys_id>2165d9f82fc220109a03e33df699b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>multiscan</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2165d9f82fc220109a03e33df699b655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 03:34:55</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2165d9f82fc220109a03e33df699b655"/>
+</record_update>
