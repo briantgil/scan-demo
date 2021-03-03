@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:21:52</sys_created_on>
+        <sys_id>3c13ac6d2f2660109a03e33df699b6c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_562840_scanner_d_models_lookup.x_562840_scanner_d.models_lookup_user</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_security_acl display_value="x_562840_scanner_d_models_lookup">bc13ac6d2f2660109a03e33df699b6c6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3c13ac6d2f2660109a03e33df699b6c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:21:52</sys_updated_on>
+        <sys_user_role display_value="x_562840_scanner_d.models_lookup_user" name="x_562840_scanner_d.models_lookup_user">2c13606d2f2660109a03e33df699b6cb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

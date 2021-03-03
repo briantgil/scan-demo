@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_562840_scanner_d.models_lookup_user" name="x_562840_scanner_d.models_lookup_user">2c13606d2f2660109a03e33df699b6cb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:21:51</sys_created_on>
+        <sys_id>e813606d2f2660109a03e33df699b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2c13606d2f2660109a03e33df699b6cb</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e813606d2f2660109a03e33df699b6ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:21:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

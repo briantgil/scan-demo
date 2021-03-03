@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="scanner Icon">8680602d2f2660109a03e33df699b627</icon>
+        <item_view display_value="scanner Header Item View">9a80602d2f2660109a03e33df699b629</item_view>
+        <name>scanner</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:10:46</sys_created_on>
+        <sys_id>1280602d2f2660109a03e33df699b62c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>scanner</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_form_screen_1280602d2f2660109a03e33df699b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:25:14</sys_updated_on>
+        <table>x_562840_scanner_d_models_lookup</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1280602d2f2660109a03e33df699b62c"/>
+</record_update>

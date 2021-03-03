@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
     <sys_sg_icon_section action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applets>150f45f42fc220109a03e33df699b616</applets>
+        <applets>112f98a92f2660109a03e33df699b6cb,ca80ace92f2660109a03e33df699b6cd</applets>
         <data_item/>
         <display_feed_count>true</display_feed_count>
         <hide_header>false</hide_header>
@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-29 02:04:19</sys_created_on>
         <sys_id>26a0c17c2f8220109a03e33df699b6b3</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>scans</sys_name>
         <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
         <sys_update_name>sys_sg_icon_section_26a0c17c2f8220109a03e33df699b6b3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 03:09:28</sys_updated_on>
+        <sys_updated_on>2021-02-25 04:15:53</sys_updated_on>
         <table/>
         <title>scans</title>
         <visible_condition/>

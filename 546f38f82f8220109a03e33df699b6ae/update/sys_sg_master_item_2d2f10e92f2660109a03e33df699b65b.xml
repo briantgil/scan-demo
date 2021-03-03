@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_562840_scanner_d_scans</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="scansx">d92f10e92f2660109a03e33df699b652</embedded_screen>
+        <item_view display_value="scansx Item View">d12f98a92f2660109a03e33df699b6c8</item_view>
+        <name>scansx Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:04:42</sys_created_on>
+        <sys_id>2d2f10e92f2660109a03e33df699b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scansx Master Item</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_master_item_2d2f10e92f2660109a03e33df699b65b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:04:42</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>
