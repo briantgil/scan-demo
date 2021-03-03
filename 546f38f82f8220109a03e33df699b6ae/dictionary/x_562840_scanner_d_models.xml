@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="models" max_length="40" name="x_562840_scanner_d_models" sizeclass="0" type="collection">
+        <element label="Model Category" max_length="40" name="model_category" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

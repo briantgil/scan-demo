@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Models</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 02:32:17</sys_created_on>
+        <sys_id>aff94ce92fe260109a03e33df699b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Models</sys_name>
+        <sys_package display_value="Scanner-Demo" source="x_562840_scanner_d">546f38f82f8220109a03e33df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scanner-Demo">546f38f82f8220109a03e33df699b6ae</sys_scope>
+        <sys_update_name>sys_sg_data_item_aff94ce92fe260109a03e33df699b62d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 02:32:17</sys_updated_on>
+        <table>x_562840_scanner_d_models</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=aff94ce92fe260109a03e33df699b62d"/>
+</record_update>
